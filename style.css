@@ -6,7 +6,7 @@
 }
 
 .all-content{
-    background: #f7f5f2;
+    background: rgb(248, 239, 248);
 }
 
 html ::-webkit-scrollbar-track{
@@ -302,6 +302,7 @@ html ::-webkit-scrollbar{
 
 #gallery{
     width: 100%;
+    background-color: rgb(248, 239, 248);
 }
 
 .heading5{
@@ -327,3 +328,8 @@ html ::-webkit-scrollbar{
 
 /* our Gallery end */
 
+/* Contact start */
+
+
+
+/* Contact end */
