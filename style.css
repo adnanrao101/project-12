@@ -8,11 +8,7 @@
 /* .all-content{
     background: rgb(248, 239, 248);
 } */
-.fourCards{
-    display: flex;
-    justify-content: space-around;
-   
-}
+ 
 #ps{
     background: rgb(248, 239, 248);
 }
