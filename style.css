@@ -8,7 +8,11 @@
 /* .all-content{
     background: rgb(248, 239, 248);
 } */
-
+.fourCards{
+    display: flex;
+    justify-content: space-around;
+   
+}
 #ps{
     background: rgb(248, 239, 248);
 }
@@ -160,6 +164,7 @@ html ::-webkit-scrollbar{
     background-color: #b2744c;
     color: #fff;
 }
+
 
 @media screen and (max-width:982px){
     #about p{
